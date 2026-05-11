@@ -4,13 +4,13 @@
 
 # Anubhuti Singh
 
-**BTech CSE '28 · ITS Engineering College, Greater Noida**
+**BTech CSE '28 · Bennett University**
 
 *Building at the intersection of data, intelligence, and systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-anubhuti)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s-anubhuti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](sanubhuti201@gmail.com)
 
 
 
@@ -19,14 +19,14 @@
 
 ## About me
 
-I'm a first-year CS undergrad with a focus on Data Science and SDE.
-I work with Python, SQL, and statistics — currently building projects
-that turn raw data into decisions, and sharpening DSA for placements.
+I’m a second-year CS undergraduate specializing in Data Science and AI, with a strong interest in Software Development and problem-solving. I enjoy building data-driven applications using Python, SQL, statistics, and Machine Learning fundamentals to solve practical problems and generate insights.
 
-- 🎯 Targeting: **Data Science / ML / SDE internships** (2025)
-- 🔨 Currently building: ML projects + DSA grind (LeetCode)
-- 📍 Delhi NCR, India
+Currently focused on improving my DSA, development skills, and real-world project experience for upcoming internship opportunities in Data Science, ML, and SDE roles.
 
+- 🎯 Targeting: Data Science / ML / SDE internships
+- ⚡ Core Skills: Python, SQL, DSA, Advanced Excel, Statistics, Basic ML
+- 🔨 Currently building: ML & full-stack projects + LeetCode grind
+- 📍 Greater Noida, Uttar Pradesh, India
 ---
 
 ## Tech Stack
@@ -53,6 +53,11 @@ that turn raw data into decisions, and sharpening DSA for placements.
 
 ## Featured Projects
 
+### 🗺️ Swiftly — Smart Route Recommendation System
+A full-stack app that analyzes real-time traffic, cost, and travel time across multiple transport modes to recommend the most optimal route for any journey.
+`React` `Node.js` `MongoDB` `OpenStreetMap API`
+→ [View Project](https://github.com/Sanjna07/Swiftly-1)
+
 ### 📊 Retail Sales Analysis
 SQL-based deep-dive into retail data — customer segmentation, revenue trends,
 and business insights extracted through exploratory data analysis.
@@ -62,29 +67,16 @@ and business insights extracted through exploratory data analysis.
 ### 🏛️ HeritEdge — Religious Service Pre-Booking Platform
 A full-stack platform for booking religious and heritage site services,
 solving the problem of unorganised access to sacred tourism in India.
-`[YOUR STACK]` `[e.g. React, Node.js, MongoDB]`
+`React` `Node.js` `SQL`
 → [View Project](https://github.com/s-anubhuti/HeritEdge-Religious_Service_Pre-Booking_Platform)
 
 ---
 
-## GitHub Stats
-
-
-
-
-![Anubhuti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-anubhuti&show_icons=true&theme=minimal&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-anubhuti&layout=compact&theme=minimal&hide_border=true)
-
-
-
-
----
 
 ## Currently
 
 - 📚 Learning: Machine Learning fundamentals + DSA patterns
-- 🏗️ Building: [Your next project name]
-- 🎯 Goal: Internship by end of 2025
+- 🏗️ Building: Spotify recommendation system using data analysis and ML techniques
 
 ---
 
