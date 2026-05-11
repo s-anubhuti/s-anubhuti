@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-anubhuti)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s-anubhuti)
-![LeetCode Stats](https://leetcard.jacoblin.cool/singhanubhuti?theme=light&font=source_code_pro&ext=activity)
+[![LeetCode](https://img.shields.io/badge/LeetCode-singhanubhuti-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/singhanubhuti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](sanubhuti201@gmail.com)
 
 
